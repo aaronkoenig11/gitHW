@@ -1,0 +1,7 @@
+#ignore everything
+*
+#except these
+!.gitignore
+!.java
+#even in subdirs
+#!*/
