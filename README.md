@@ -1,5 +1,7 @@
-# 4110demo
+Aaron Koenig
+Green
+Chicken, Alfredo Sauce, Noodles, Garlic
 
-## subsections about this project
-
-Say something about the repository
+Sautee Chicken and Garlic.
+Boil Noodles.
+Mix Noodles with Chicken and add sauce.
