@@ -4,4 +4,4 @@
 !.gitignore
 !*.java
 #even in subdirs
-!*/
+!*/*
