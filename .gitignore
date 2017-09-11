@@ -2,6 +2,6 @@
 *
 #except these
 !.gitignore
-!.java
+!*.java
 #even in subdirs
 #!*/
